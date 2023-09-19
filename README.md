@@ -1,4 +1,4 @@
 # ChatGPT3500
 
-###Our Wiki
-[Wiki](https://github.com/UQdeco3500/ChatGPT3500/wiki)
+###Our Wiki<br>
+[Wiki link](https://github.com/UQdeco3500/ChatGPT3500/wiki)
